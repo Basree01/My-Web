@@ -9,5 +9,5 @@
     "your fullname is" . $userName . 
     "your email is" . $userEmail . 
     "your subject is" . $Subject . 
-    "your phone number is" $PhoneNumber 
-    "your message is" $Message;
+    "your phone number is" . $PhoneNumber .
+    "your message is" . $Message;
